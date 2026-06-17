@@ -3,7 +3,8 @@ import { GeistSans } from 'geist/font/sans'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'kianmoradpour',
+  title: 'Kian Moradpour',
+  description: 'For associates',
   robots: { index: false, follow: false },
 }
 
